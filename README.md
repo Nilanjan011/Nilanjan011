@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NIlanjan Chakraborty
-- 👀 I’m interested in PHP.laravel, Javascript, Reactjs, vuejs, node js, mysql and mongodb.
+- 👀 I’m interested in PHP, laravel, Javascript, Reactjs, vuejs, node js, mysql and mongodb.
 - 🌱 I’m currently learning Next js, Nuxt js and adonis js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
